@@ -17,11 +17,11 @@ const CONFIG = {
       text: "Wanna be my gaming Valentine? 🎮💝",
       yesBtn: "Yes 😳👉👈",
       noBtn: "Not today 😭",
-      secretAnswer: "HELL YEAH! ur still my favourite person to play with 🫶🏼"
+      secretAnswer: "HELL YEAH! Ur my favourite person to play with 🫶🏼"
     },
     second: {
-      text: "How hype are you for us to hang out? 😄",
-      startText: "This hype!",
+      text: "How happy are you for us to hang out? 😄",
+      startText: "This happy!",
       nextBtn: "Next ❤️"
     },
     third: {
@@ -34,9 +34,9 @@ const CONFIG = {
 
   // Love meter messages (reframed as “hype”)
   loveMessages: {
-    extreme: "WOOOOW okay calm down gamer 😭🚀💝",
-    high: "MAXIMUM HYPE!! 🚀💝",
-    normal: "Perfect vibes 😄🫶🏼"
+    extreme: "WOOOOW okay calm down 😭🚀💝",
+    high: "WOW That a lot 🚀💝",
+    normal: "Am happy too 😄🫶🏼"
   },
 
   // Celebration (kept cute, less intense)
