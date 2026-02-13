@@ -17,7 +17,7 @@ const CONFIG = {
       text: "Wanna be my gaming Valentine? 🎮💝",
       yesBtn: "Yes 😳👉👈",
       noBtn: "Not today 😭",
-      secretAnswer: "ok but ur still my favourite person to play with 🫶🏼"
+      secretAnswer: "HELL YEAH! ur still my favourite person to play with 🫶🏼"
     },
     second: {
       text: "How hype are you for us to hang out? 😄",
